@@ -6,3 +6,5 @@ some changes made by "new user"
 some more changes made by new users
 
 testing with repo specific git config
+
+changes to be pushed by "other" user
